@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaFinder", "AreaFinder\AreaFinder.csproj", "{CEE0189A-E796-48F8-976A-D73FC9F84DCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B74696B9-44D1-49E2-8A69-EF2A9AAE871E}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE0189A-E796-48F8-976A-D73FC9F84DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE0189A-E796-48F8-976A-D73FC9F84DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE0189A-E796-48F8-976A-D73FC9F84DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE0189A-E796-48F8-976A-D73FC9F84DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15107B35-FD04-4D8B-BD4E-D2278AAEE8B5}
+	EndGlobalSection
+EndGlobal
